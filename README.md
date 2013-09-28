@@ -84,3 +84,4 @@ Heroku，Travis CIへのログインの後，アプリの生成が始まりま�
 ## Memo
 
 - インストールし直しする場合は、vagrant box removeすること。
+
